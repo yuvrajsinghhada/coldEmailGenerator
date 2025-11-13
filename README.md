@@ -28,7 +28,3 @@ This app scrapes job postings from career pages, extracts relevant job informati
 | **Language** | Python |
 | **Environment Management** | python-dotenv |
 
----
-
-## 🏗️ Project Structure
-
